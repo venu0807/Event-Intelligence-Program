@@ -299,10 +299,4 @@ event-intelligence-platform/
 
 ---
 
-## Deliverables
 
-- GitHub repository: <REPLACE_WITH_REPO_URL>
-- Unlisted YouTube video (5-10 min): <REPLACE_WITH_YOUTUBE_URL>
-- Recording date: <REPLACE_WITH_DATE>
-
-Video outline and recording checklist are in `VIDEO_OUTLINE.md`.
